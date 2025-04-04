@@ -1,2 +1,1 @@
-# SampleGit
-learn about Git
+
